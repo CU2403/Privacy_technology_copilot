@@ -22,10 +22,6 @@ The tool includes a logic layer to flag necessary regulatory frameworks based on
 * **CCPA/CPRA:** Flagged for relevant US jurisdictions.
 
 
-
-[Image of data privacy compliance flowchart]
-
-
 ### 3. Implementation & Configuration Calculators
 Beyond high-level advice, the Copilot provides concrete math and infrastructure settings:
 * **Privacy Budget Calculator:** Computes the $\epsilon$ (epsilon) per query and total daily budget based on your maximum absolute error tolerance ($\Delta$) and expected query volume.
@@ -76,6 +72,3 @@ The Copilot advises on critical post-deployment factors:
 
 ---
 
-## 📬 Contact
-* **Developer:** [Your Name]
-* **Project Link:** [Link to your repo]
